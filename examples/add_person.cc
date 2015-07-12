@@ -49,7 +49,7 @@ void PromptForAddress(tutorial::Person* person) {
     }
   }
 }
-
+<a href="https://www.ssl.com/affiliate/index.php?ref=125">Webmasters Earn Money Here!</a>
 // Main function:  Reads the entire address book from a file,
 //   adds one person based on user input, then writes it back out to the same
 //   file.
